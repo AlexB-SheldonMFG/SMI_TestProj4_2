@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/SHELLAB.css" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="false" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project.">
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/SHELLAB.css" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." SourceControlProviderType="Git" ProjectGuid="ebf6563f-56e1-434e-8a41-2130a5c93833">
     <Synchronize>
         <Mapping ProjectPath="Content/Resources/Images/SHELLAB_Covers/SL_Logo.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Logos/SHEL_LAB/SL_Logo.png" />
         <Mapping ProjectPath="Content/Resources/Images/SHELLAB_Covers/SL_Front.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Manuals_Elements/Cover_Matter/Shel_Lab/SL_Front.png" />
