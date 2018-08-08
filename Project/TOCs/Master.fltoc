@@ -58,7 +58,19 @@
       Link="/Content/Topics/INTRODUCTION/Contact_Engineering.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Topics/INTRODUCTION/Temp_Ref_Device.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Topics/INTRODUCTION/Temp_Ref_Device.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="RECEIVING YOUR UNIT">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Topics/RECEIVING/Inspect_Shipment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      PageType="firstright"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/SHELLAB_UMan_Layouts/RECEIVING.flpgl" />
     <TocEntry
       Title="New Entry" />
   </TocEntry>

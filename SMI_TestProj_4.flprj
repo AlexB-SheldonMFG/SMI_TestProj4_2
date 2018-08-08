@@ -10,5 +10,6 @@
         <Mapping ProjectPath="Content/Resources/Images/NRTL_1_Mini25.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Cert_Marks/NRTL_1_Mini25.png" />
         <Mapping ProjectPath="Content/Resources/Images/Front_Matter/NRTL_1_Mini30.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Cert_Marks/NRTL_1_Mini30.png" />
         <Mapping ProjectPath="Content/Resources/Images/CE_Cert_Mini15.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Cert_Marks/CE_Cert_Mini15.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Introduction/Ref_Device_Temp_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Ref_Device_Temp_Man.png" />
     </Synchronize>
 </CatapultProject>

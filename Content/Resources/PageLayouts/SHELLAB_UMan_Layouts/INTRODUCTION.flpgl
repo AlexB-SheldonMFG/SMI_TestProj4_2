@@ -5,7 +5,7 @@
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
                     <xhtml:body>
-                        <xhtml:p xhtml:class="Heading_Left_Continued_SL" xhtml:style="background-color: #a7a6a6;">INTRODUCTION</xhtml:p>
+                        <xhtml:p xhtml:class="Heading_Left_Continued_SL">INTRODUCTION</xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
             </Content>
@@ -41,11 +41,11 @@
         </Frame>
     </Page>
     <Page Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="right">
-        <Frame Flow="header" Height="0.3854167in" Right="-80px" X="-95px" Y="-0.75in" ColumnCount="1" Width="8.322917in" Bottom="899px" PaddingLeft="0" BackgroundColor="#a7a6a6" BackgroundColorAlt="#a7a6a6" Anchors="" BackgroundType="Solid" PaddingRight="58pt">
+        <Frame Flow="header" Height="0.3854167in" Right="-96px" X="-76px" Y="-0.75in" ColumnCount="1" Width="8.291667in" Bottom="899px" PaddingLeft="58pt" BackgroundColor="#a7a6a6" BackgroundColorAlt="#a7a6a6" Anchors="" BackgroundType="Solid" PaddingRight="0" TextAlign="left" VerticalAlign="middle">
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
                     <xhtml:body>
-                        <xhtml:p xhtml:class="Heading_Right_Continued_SL">INTRODUCTION</xhtml:p>
+                        <xhtml:p xhtml:class="Heading_Left_Continued_SL">INTRODUCTION</xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
             </Content>
