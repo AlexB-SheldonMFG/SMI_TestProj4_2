@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <body>
-        <b>These units require permanent connect wiring (also known as hard wiring) to a <MadCap:variable name="Variables.PowerPhase"></MadCap:variable>-phase power supply</b>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Default.PwrFd-HardWire">
+    <body><b>These units require permanent connect wiring (also known as hard wiring) to a <MadCap:variable name="Variables.PowerPhase"></MadCap:variable>-phase power supply</b>
     </body>
 </html>

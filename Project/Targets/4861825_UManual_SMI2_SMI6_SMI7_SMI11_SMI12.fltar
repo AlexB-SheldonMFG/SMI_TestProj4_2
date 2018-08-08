@@ -6,7 +6,7 @@
   Destinations=""
   MasterToc="/Project/TOCs/Master.fltoc"
   GetLatestBeforeCompile="true"
-  ConditionTagExpression="include[&quot;Default.100 - 120V&quot; or Default.PwrFd-Cord or &quot;Default.TUV - Tested&quot;] exclude[&quot;Default.110 - 120V&quot; or &quot;Default.220 - 240V&quot; or Default.PwrFd-HardWire or &quot;Default.TUV - Not Tested&quot;] "
+  ConditionTagExpression="include[&quot;Default.100 - 120V&quot; or Default.PwrFd-Cord or &quot;Default.TUV - Tested&quot;] exclude[&quot;Default.110 - 120V&quot; or &quot;Default.220 - 240V&quot; or Default.Profile_Guide or Default.PwrFd-HardWire or &quot;Default.TUV - Not Tested&quot;] "
   InjectEmptyPages="true"
   PatchHeadingLevels="false"
   MasterStylesheet="/Content/Resources/Stylesheets/SHELLAB.css">

@@ -36,7 +36,7 @@
             </Content>
         </Frame>
         <Frame X="2px" Y="914px" Width="177px" Height="24px" Flow="decoration0" Right="445px" Bottom="-74px" BackgroundImage="../../Images/Page_Elements/SL_Footer_Fade.png" BackgroundRepeat="stretch" />
-        <Frame X="-96px" Y="-72px" Width="801px" Height="45px" FlowIndex="1" Right="-81px" Bottom="891px" PaddingLeft="0" Anchors="" PaddingBottom="0" BackgroundType="Solid" BackgroundColor="#00aeef" BackgroundColorAlt="#00aeef" BorderBottomStyle="solid" BorderBottomWidth="7px" BorderBottomColor="#a6a4a4;device-cmyk(0,0.01,0.01,0.35)" Flow="body" />
+        <Frame X="-76px" Y="-72px" Width="796px" Height="45px" FlowIndex="1" Right="-96px" Bottom="891px" PaddingLeft="20pt" Anchors="" PaddingBottom="0" BackgroundType="Solid" BackgroundColor="#00aeef" BackgroundColorAlt="#00aeef" BorderBottomStyle="solid" BorderBottomWidth="7px" BorderBottomColor="#a6a4a4;device-cmyk(0,0.01,0.01,0.35)" Flow="body" />
         <Frame Flow="body" ColumnCount="1" ColumnGap="0.25in" ColumnDivider="Solid 1pt Black" Width="6.5in" Height="9.427083in" X="0px" Y="-12px" Right="0px" Bottom="-29px" FlowIndex="2">
         </Frame>
     </Page>

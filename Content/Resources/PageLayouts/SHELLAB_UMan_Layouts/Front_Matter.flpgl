@@ -24,7 +24,7 @@
         <Frame X="443px" Y="915px" Width="177px" Height="24px" Flow="decoration0" Right="4px" Bottom="-75px" BackgroundImage="../../Images/Page_Elements/SL_Footer_Fade.png" BackgroundRepeat="stretch" Anchors="" />
     </Page>
     <Page Width="800" Height="800" Padding="1in" PageSize="Letter" PaddingLeft="1in" PaddingRight="1in" PaddingTop="1in" PaddingBottom="1in" PageType="right">
-        <Frame Flow="header" Height="0.3854167in" Right="-80px" X="-96px" Y="-0.75in" ColumnCount="1" Width="8.333333in" Bottom="899px" PaddingLeft="0" BackgroundColor="#a7a6a6" BackgroundColorAlt="#a7a6a6" Anchors="" BackgroundType="Solid" PaddingRight="58pt">
+        <Frame Flow="header" Height="0.3854167in" Right="-96px" X="-76px" Y="-0.75in" ColumnCount="1" Width="8.291667in" Bottom="899px" PaddingLeft="0" BackgroundColor="#a7a6a6" BackgroundColorAlt="#a7a6a6" Anchors="" BackgroundType="Solid" PaddingRight="58pt">
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
                     <xhtml:body>
