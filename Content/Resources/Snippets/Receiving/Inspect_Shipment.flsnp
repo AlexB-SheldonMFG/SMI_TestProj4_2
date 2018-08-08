@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <h2>Inspect the Shipment</h2>
+        <ul>
+            <li>When a unit leaves the factory, safe delivery becomes the responsibility of the carrier.</li>
+            <li>
+                <b>Damage sustained during transit is not covered by the manufacturing defect warranty.</b>
+            </li>
+            <li>Save the shipping carton until you are certain that the unit and its accessories function properly.</li>
+        </ul>
+        <p>&#160;</p>
+        <p>When you receive your unit, inspect it for concealed loss or damage to its interior and exterior. <b>If you find any damage to the unit, follow the carrier’s procedure for claiming damage or loss.</b></p>
+        <ol>
+            <li class="Sheldon_Numbered">Carefully inspect the shipping carton for damage.</li>
+            <li class="Sheldon_Numbered">	Report any damage to the carrier service that delivered the unit.</li>
+            <li class="Sheldon_Numbered">	If the carton is not damaged, open the carton and remove the contents.</li>
+            <li class="Sheldon_Numbered">Inspect the unit for signs of damage. See the orientation depiction on the next page as a reference.</li>
+            <li class="Sheldon_Numbered">The unit should come with an Installation and Operation Manual<MadCap:conditionalText MadCap:conditions="Default.Profile_Guide"> and Profile Programming Guide</MadCap:conditionalText>.</li>
+            <li class="Sheldon_Numbered">	Verify that the correct number of accessory items has been included.</li>
+            <li class="Sheldon_Numbered">	Carefully check all packaging for accessory items before discarding.</li>
+        </ol>
+    </body>
+</html>
