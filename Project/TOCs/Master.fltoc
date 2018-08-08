@@ -62,9 +62,14 @@
       StartSection="false" />
   </TocEntry>
   <TocEntry
-    Title="RECEIVING YOUR UNIT">
+    Title="RECEIVING YOUR UNIT"
+    BreakType="chapter"
+    PageType="firstright"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/SHELLAB_UMan_Layouts/RECEIVING.flpgl">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
+      Title="Inspect the Shipment"
       Link="/Content/Topics/RECEIVING/Inspect_Shipment.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       BreakType="chapter"
       PageType="firstright"

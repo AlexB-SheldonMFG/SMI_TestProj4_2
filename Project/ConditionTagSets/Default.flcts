@@ -40,5 +40,9 @@
     BackgroundColor="#2f4f4f"
     Name="PwrFd-HardWire"
     Comment=""
-    OriginalName="PwrFd-HW-1Phase" />
+    OriginalName="PwrFd-HardWire" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Profile_Guide"
+    Comment="" />
 </CatapultConditionTagSet>
