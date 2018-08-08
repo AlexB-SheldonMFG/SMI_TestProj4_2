@@ -41,4 +41,12 @@
     Name="CompanyName"
     Comment=""
     EvaluatedDefinition="Cascade TEK">Cascade TEK</Variable>
+  <Variable
+    Name="PowerPhase"
+    Comment=""
+    EvaluatedDefinition="single">single</Variable>
+  <Variable
+    Name="PowerPhase"
+    Comment=""
+    EvaluatedDefinition="three">three</Variable>
 </CatapultVariableSet>

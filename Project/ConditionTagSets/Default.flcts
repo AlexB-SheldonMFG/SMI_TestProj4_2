@@ -10,12 +10,14 @@
     BackgroundColor="Red" />
   <ConditionTag
     BackgroundColor="#008000"
-    Name="100 - 120 Voltage"
-    Comment="" />
+    Name="100 - 120V"
+    Comment=""
+    OriginalName="100 - 120V" />
   <ConditionTag
     BackgroundColor="#ffa500"
-    Name="220 - 240 Voltage"
-    Comment="" />
+    Name="220 - 240V"
+    Comment=""
+    OriginalName="220 - 240V" />
   <ConditionTag
     BackgroundColor="#8b008b"
     Name="TUV - Tested"
@@ -24,4 +26,19 @@
     BackgroundColor="#00bfff"
     Name="TUV - Not Tested"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="110 - 120V"
+    Comment=""
+    OriginalName="110 - 120V" />
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="PwrFd-Cord"
+    Comment=""
+    OriginalName="PwrFd-Cord" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="PwrFd-HardWire"
+    Comment=""
+    OriginalName="PwrFd-HW-1Phase" />
 </CatapultConditionTagSet>
