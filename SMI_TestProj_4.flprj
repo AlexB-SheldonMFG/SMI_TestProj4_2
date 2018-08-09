@@ -11,5 +11,10 @@
         <Mapping ProjectPath="Content/Resources/Images/Front_Matter/NRTL_1_Mini30.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Cert_Marks/NRTL_1_Mini30.png" />
         <Mapping ProjectPath="Content/Resources/Images/CE_Cert_Mini15.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Pix_GFX/Graphics/Cert_Marks/CE_Cert_Mini15.png" />
         <Mapping ProjectPath="Content/Resources/Images/Introduction/Ref_Device_Temp_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Graphics/Procedures_C/CAL_TEMP/Reference/Ref_Device_Temp_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Introduction/2700512_Thumb_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Parts_Accs/Leveling_Feet/2700512_Thumb_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Introduction/1800500_Thumb_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Parts_Accs/Power_Cord/1800500_Thumb_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Introduction/1800510_Thumb_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Parts_Accs/Power_Cord/1800510_Thumb_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Introduction/5130523_Thumb_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Parts_Accs/Shelving/Shelves/5130523_Thumb_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Introduction/5081201_Thumb_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Parts_Accs/Shelving/Slides/5081201_Thumb_Man.png" />
     </Synchronize>
 </CatapultProject>

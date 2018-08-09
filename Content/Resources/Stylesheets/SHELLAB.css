@@ -372,7 +372,7 @@ th.Centered_SL
 	border-bottom: 0.5pt solid black;
 	font-size: 10pt;
 	padding-top: 2pt;
-	padding-bottom: 2pt
+	padding-bottom: 2pt;
 }
 
 td.Centered
@@ -388,6 +388,21 @@ td.Centered
 	padding-bottom: 2pt;
 }
 
+td.Invisible
+{
+	margin-bottom: 4pt;
+	margin-top: 4pt;
+	vertical-align: middle;
+	text-align: center;
+	border-bottom: 0.5pt solid white;
+	font-size: 10pt;
+	padding-left: 0pt;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
+}
+
+
+
 td.Left
 {
 	margin-bottom: 4pt;
@@ -400,7 +415,9 @@ td.Left
 	padding-top: 2pt;
 	padding-bottom: 2pt;
 }
-	
+
+
+
 /* Image Formats */
 
 img
