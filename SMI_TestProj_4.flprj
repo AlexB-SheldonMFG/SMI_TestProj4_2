@@ -16,5 +16,8 @@
         <Mapping ProjectPath="Content/Resources/Images/Introduction/1800510_Thumb_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Parts_Accs/Power_Cord/1800510_Thumb_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Introduction/5130523_Thumb_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Parts_Accs/Shelving/Shelves/5130523_Thumb_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Introduction/5081201_Thumb_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Parts_Accs/Shelving/Slides/5081201_Thumb_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI2_DR_Rece_Orient_Txt_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222/SMI2_DR_Rece_Orient_Txt_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/SMI2_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222/SMI2_DR_Rece_Orientation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI2-2_DR_Rece_Orient_Txt_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222-EA/SMI2-2_DR_Rece_Orient_Txt_Man.png" />
     </Synchronize>
 </CatapultProject>

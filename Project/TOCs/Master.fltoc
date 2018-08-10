@@ -77,6 +77,12 @@
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/SHELLAB_UMan_Layouts/RECEIVING.flpgl" />
     <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Topics/RECEIVING/Orientation_Images.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/SHELLAB_UMan_Layouts/RECEIVING.flpgl" />
+    <TocEntry
       Title="New Entry" />
   </TocEntry>
 </CatapultToc>
