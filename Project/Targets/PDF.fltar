@@ -20,5 +20,6 @@
     RestrictPermissions="true"
     RestrictPrinting="false"
     ModifyPassword="IE5ESsq8X1B5+vqMMjluvw=="
-    CollapsedBookmarks="true" />
+    CollapsedBookmarks="true"
+    ImageCompression="JPEG" />
 </CatapultTarget>
