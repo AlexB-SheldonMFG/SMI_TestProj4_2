@@ -19,9 +19,11 @@
         <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI2_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222/SMI2_DR_Rece_Orientation_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/SMI2-2_DR_Rece_Orient_Txt_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222-EA/SMI2-2_DR_Rece_Orient_Txt_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/SMI6_DR_Rece_Orient_Txt_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM622s/SLM622/SMI6_DR_Rece_Orient_Txt_Man.png" />
-        <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI6-2_DR_Rece_Orient_Txt_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM622s/SLM622-EA/SMI6-2_DR_Rece_Orient_Txt_Man.png" />
-        <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI7_DR_Rece_Orient_Txt_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SLM722/SMI7_DR_Rece_Orient_Txt_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI6_DRs_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM622s/SLM622/SMI6_DRs_Rece_Orientation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI7_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SLM722/SMI7_DR_Rece_Orientation_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/SMI2_DR_Rece_Orient_Txt_Man.jpg" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222/SMI2_DR_Rece_Orient_Txt_Man.jpg" />
         <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI2-2_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222-EA/SMI2-2_DR_Rece_Orientation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI6-2_DRs_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM622s/SLM622-EA/SMI6-2_DRs_Rece_Orientation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI7-2_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SLM722-EA/SMI7-2_DR_Rece_Orientation_Man.png" />
     </Synchronize>
 </CatapultProject>
