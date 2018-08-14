@@ -30,5 +30,8 @@
         <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI11-2_L-DR_R-DRs_LDF_Orient_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM1122s/SLM1122-EA/SMI11-2_L-DR_R-DRs_LDF_Orient_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI12_T_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM1222s/SLM1222/SMI12_T_DR_Rece_Orientation_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI12-2_T_DR_Rece_Orientation_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM1222s/SLM1222-EA/SMI12-2_T_DR_Rece_Orientation_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI_Com_Ports_Rece_Sides_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SMI_Com_Ports_Rece_Sides_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI2_100V_PP_Bright_Rece_Sides_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222/SMI2_100V_PP_Bright_Rece_Sides_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI2_220V_PP_Rec_Orient_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222-EA/SMI2_220V_PP_Rec_Orient_Man.png" />
     </Synchronize>
 </CatapultProject>
