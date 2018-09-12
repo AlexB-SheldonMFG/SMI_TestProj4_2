@@ -353,14 +353,6 @@ th
 	border-bottom: 0.5pt solid black;
 }
 
-td
-{
-	margin-bottom: 2pt;
-	margin-top: 2pt;
-	vertical-align: middle;
-	border-bottom: 0.5pt solid black;
-}
-
 
 th.Centered_SL
 {
@@ -383,12 +375,20 @@ th.Right_SL
 	font-weight: bold;
 	text-align: Left;
 	background-color: #f2f2f2;
-	border-bottom: 0.5pt solid black;
 	border-right: 0.5pt solid black;
 	font-size: 10pt;
 	padding-left: 30pt;
 	padding-top: 2pt;
 	padding-bottom: pt;
+}
+
+
+td
+{
+	margin-bottom: 2pt;
+	margin-top: 2pt;
+	vertical-align: middle;
+	border-bottom: 0.5pt solid black;
 }
 
 td.Centered
