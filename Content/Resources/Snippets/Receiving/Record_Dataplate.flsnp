@@ -1,4 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <body>Record the unit <b>model number, serial number</b>, <b>part number</b>, <b>and part ID</b> below for future reference. Tech Support needs this information to provide accurate help during support calls and emails.</body>
+    <body>
+        <p>Record the unit <b>model number, serial number</b>, <b>part number</b>, <b>and part ID</b> below for future reference. Tech Support needs this information to provide accurate help during support calls and emails.</p>
+        <p class="no_space">&#160;</p>
+        <table style="width: 100%;">
+            <col style="width: 141px;" />
+            <tbody>
+                <tr>
+                    <th class="Right_SL">Model NO:</th>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                    <td>&#160;</td>
+                </tr>
+                <tr>
+                    <th class="Right_SL">Serial NO:</th>
+                    <td class="Centered">&#160;</td>
+                    <td class="Centered">&#160;</td>
+                    <td class="Centered">&#160;</td>
+                    <td class="Centered">&#160;</td>
+                </tr>
+                <tr>
+                    <th class="Right_SL"> Part NO:</th>
+                    <td class="Centered">&#160;</td>
+                    <td class="Centered">&#160;</td>
+                    <td class="Centered">&#160;</td>
+                    <td class="Centered">&#160;</td>
+                </tr>
+                <tr>
+                    <th class="Right_SL">Part ID:</th>
+                    <td class="Centered">&#160;</td>
+                    <td class="Centered">&#160;</td>
+                    <td class="Centered">&#160;</td>
+                    <td class="Centered">&#160;</td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
 </html>
