@@ -322,6 +322,47 @@ p.Sheldon_body_bulleted2
 }
 
 
+/* Lists - Installation Chapter - Print */
+
+
+ul.Install_Checklist
+{
+	list-style-image: none;
+	padding-left: .69in;
+}
+
+li.Install_Checklist
+{
+	padding-top: 8pt;
+	padding-bottom: 8pt;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+}
+
+ul.Install_Checklist > li::marker
+{
+	font-family: Wingdings;
+	content: 'ü';
+	font-weight: bold;
+}
+
+ul.Install_Checklist > li > ul
+{
+	list-style-type: disc;
+	list-style-image: none;
+	padding-top: 8pt;
+	margin-top: 2pt;
+	margin-bottom: 2pt;
+}
+
+ul.Install_Checklist > li > ul > li::marker
+{
+	font-family: ;
+	content: '•';
+
+
+
+
 
 
 /* Tabel Builds */
