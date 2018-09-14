@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="100 - 120V"
+    Comment=""
+    OriginalName="100 - 120V" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="220 - 240V"
+    Comment=""
+    OriginalName="220 - 240V" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="110 - 120V"
+    Comment=""
+    OriginalName="110 - 120V" />
+</CatapultConditionTagSet>

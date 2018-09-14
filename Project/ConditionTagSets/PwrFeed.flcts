@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#ff00ff"
+    Name="PwrFd-Cord"
+    Comment=""
+    OriginalName="PwrFd-Cord" />
+  <ConditionTag
+    BackgroundColor="#2f4f4f"
+    Name="PwrFd-HardWire"
+    Comment=""
+    OriginalName="PwrFd-HardWire" />
+</CatapultConditionTagSet>
