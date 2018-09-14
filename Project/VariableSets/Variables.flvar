@@ -34,10 +34,6 @@
     LastUpdated="2018-07-02T12:56:56.8305509-07:00"
     EvaluatedDefinition="MMMM dd, yyy">MMMM dd, yyy</Variable>
   <Variable
-    Name="Product"
-    Comment=""
-    EvaluatedDefinition="forced air oven">forced air oven</Variable>
-  <Variable
     Name="CompanyName"
     Comment=""
     EvaluatedDefinition="Cascade TEK">Cascade TEK</Variable>
@@ -49,4 +45,16 @@
     Name="PowerPhase"
     Comment=""
     EvaluatedDefinition="three">three</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="BACTRON">BACTRON</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="BACTROX">BACTROX</Variable>
+  <Variable
+    Name="Product"
+    Comment=""
+    EvaluatedDefinition="oven">oven</Variable>
 </CatapultVariableSet>

@@ -41,6 +41,8 @@ h3
 	mc-heading-level: 0;
 }
 
+
+
 h4
 {
 	font-weight: bold;
@@ -52,9 +54,25 @@ h5
 {
 	font-weight: bold;
 	font-size: 10.0pt;
-	margin-bottom: 3pt;
+	margin-bottom: 9pt;
 	mc-heading-level: 0;
 }
+
+h5.Checkmark
+{
+	padding-left: .44in;
+}
+
+h5.right
+{
+	text-align: right;
+}
+
+h5.centered
+{
+	text-align: center;
+}
+
 
 h6
 {
