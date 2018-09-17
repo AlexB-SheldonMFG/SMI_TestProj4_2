@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <b>Power Source:</b> The power source must match the voltage and amperage requirements listed on the unit data plate. These units are intended for<b><![CDATA[ ]]></b><MadCap:conditionalText MadCap:conditions="Voltage.100 - 120V" style="font-weight: bold;">100 – 120 volt,</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Voltage.110 - 120V" style="font-weight: bold;">110 – 120 volt,</MadCap:conditionalText><MadCap:conditionalText MadCap:conditions="Voltage.220 - 240V" style="font-weight: bold;">220 – 240 volt,</MadCap:conditionalText><![CDATA[ ]]><b>50/60 Hz</b> applications at the following amperages:</body>
+</html>
