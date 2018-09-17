@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Oven"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Vac_Oven"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Non-Oven"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Oven w/Vent"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Oven w/Blower"
+    Comment="" />
+</CatapultConditionTagSet>
