@@ -103,6 +103,10 @@
       StartSection="false"
       PageLayout="/Content/Resources/PageLayouts/SHELLAB_UMan_Layouts/INSTALLATION.flpgl" />
     <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Topics/INSTALLATION/Req_Clearances.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false" />
+    <TocEntry
       Title="New Entry" />
   </TocEntry>
 </CatapultToc>

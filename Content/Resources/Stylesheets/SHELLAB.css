@@ -1,13 +1,9 @@
-﻿
-
-/*<meta />*/
+﻿/*<meta />*/
 
 body
 {
 	font-family: 'Proxima Nova';
 }
-
-
 
 /* Header Formats */
 
@@ -41,8 +37,6 @@ h3
 	mc-heading-level: 0;
 }
 
-
-
 h4
 {
 	font-weight: bold;
@@ -73,7 +67,6 @@ h5.centered
 	text-align: center;
 }
 
-
 h6
 {
 	font-weight: bold;
@@ -81,20 +74,16 @@ h6
 	mc-heading-level: 0;
 }
 
-
-
 /* Wrappers */
 
 div.NoPageBreak
 {
 	page-break-inside: avoid;
-		font-size: 10.0pt;
+	font-size: 10.0pt;
 	margin-top: 0pt;
 	margin-bottom: 10pt;
 	margin-right: 27pt;
 }
-
-
 
 /* Paragraph Formats */
 
@@ -178,8 +167,6 @@ p.Warning_Sheldon
 	color: #000000;
 }
 
-
-
 /* Heading Bar Format */
 
 p.Heading_Right_Continued_SL
@@ -197,8 +184,6 @@ p.Heading_Right_Continued_SL
 	font-family: 'Proxima Nova Semibold';
 	color: #FFFFFF;
 }
-
-
 
 /* Cover Formats */
 
@@ -242,8 +227,6 @@ p.Back_Page
 	margin-bottom: 0pt;
 }
 
-
-
 /* Emphasis Formats */
 
 p.Emphasis_16
@@ -281,8 +264,6 @@ ol
 	margin-top: 0pt;
 	font-size: 10pt;
 }
-
-
 
 /* List Formats */
 
@@ -339,9 +320,7 @@ p.Sheldon_body_bulleted2
 	font-family: 'Proxima Nova';
 }
 
-
 /* Lists - Checklist - Print */
-
 
 ul.Install_Checklist
 {
@@ -377,11 +356,7 @@ ul.Install_Checklist > li > ul > li::marker
 {
 	font-family: ;
 	content: '•';
-
-
-
-
-
+}
 
 /* Tabel Builds */
 
@@ -398,8 +373,6 @@ table.PartIDs_SL
 	width: 100%;
 }
 
-
-
 /* Tabel text Formats */
 
 th
@@ -411,7 +384,6 @@ th
 	background-color: #f2f2f2;
 	border-bottom: 0.5pt solid black;
 }
-
 
 th.Centered_SL
 {
@@ -425,7 +397,6 @@ th.Centered_SL
 	padding-top: 2pt;
 	padding-bottom: 2pt;
 }
-
 
 td
 {
@@ -461,8 +432,6 @@ td.Invisible
 	padding-bottom: 2pt;
 }
 
-
-
 td.Left
 {
 	margin-bottom: 4pt;
@@ -470,6 +439,20 @@ td.Left
 	vertical-align: middle;
 	text-align: Left;
 	border-bottom: 0.5pt solid black;
+	font-size: 10pt;
+	padding-left: 5em;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
+}
+
+td.Left_RBorder
+{
+	margin-bottom: 4pt;
+	margin-top: 4pt;
+	vertical-align: middle;
+	text-align: Left;
+	border-bottom: 0.5pt solid black;
+	border-right: 0.5pt solid black;
 	font-size: 10pt;
 	padding-left: 5em;
 	padding-top: 2pt;
@@ -491,6 +474,21 @@ th.Right_SL
 	padding-top: 2pt;
 	padding-bottom: pt;
 }
+
+td.Cent_RightBorder
+{
+	margin-bottom: 4pt;
+	margin-top: 4pt;
+	vertical-align: middle;
+	text-align: center;
+	border-right: 0.5pt solid black;
+	border-bottom: 0.5pt solid black;
+	font-size: 10pt;
+	padding-left: 0pt;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
+}
+
 
 
 /* Image Formats */
@@ -532,4 +530,14 @@ MadCap|dropDownHotspot
 	font-style: italic;
 	text-decoration: none;
 	color: #006600;
+}
+
+MadCap|xref.ConceptPageNumber
+{
+	mc-format: '{pageref}';
+}
+
+MadCap|xref
+{
+	mc-format: '{pageref}';
 }
