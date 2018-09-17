@@ -97,6 +97,12 @@
       PageNumberReset="continue"
       PageLayout="/Content/Resources/PageLayouts/SHELLAB_UMan_Layouts/INSTALLATION.flpgl" />
     <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Topics/INSTALLATION/Ambient_Conditions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false"
+      PageLayout="/Content/Resources/PageLayouts/SHELLAB_UMan_Layouts/INSTALLATION.flpgl" />
+    <TocEntry
       Title="New Entry" />
   </TocEntry>
 </CatapultToc>

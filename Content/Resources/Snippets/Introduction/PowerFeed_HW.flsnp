@@ -3,7 +3,7 @@
     <body>
         <p>Your unit and its recommended accessories are designed and tested to meet strict safety requirements.</p>
         <ul>
-            <li>Always hard wire the unit power feed to a <MadCap:variable name="Variables.PowerPhase" />-phase, protective earth-grounded electrical source that conforms to national and local electrical codes. If the unit is not grounded, parts such as knobs and controls can conduct electricity and cause serious injury.</li>
+            <li>Always hard wire the unit power feed to a <MadCap:variable name="SL_Variables.PowerPhase" />-phase, protective earth-grounded electrical source that conforms to national and local electrical codes. If the unit is not grounded, parts such as knobs and controls can conduct electricity and cause serious injury.</li>
             <li>	Position the unit so operators can quickly and easily disconnect or uncouple the power feed in the event of an emergency.</li>
             <li>Avoid damaging the power feed. Do not bend it excessively, step on it, or place heavy objects on it. A damaged power feed can easily become a shock or fire hazard. Never use a power feed if it has been damaged or altered in any way.</li>
             <li>Use only approved accessories. Do not modify system components. Any alterations or modifications to your oven not explicitly authorized by the manufacturer can be dangerous and will void your warranty.</li>

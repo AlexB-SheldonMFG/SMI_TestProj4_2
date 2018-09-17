@@ -20,11 +20,11 @@
     Comment=""
     EvaluatedDefinition="Cascade TEK">Cascade TEK</Variable>
   <Variable
-    Name="Product"
+    Name="SL_Product"
     Comment=""
     EvaluatedDefinition="incubator">incubator</Variable>
   <Variable
-    Name="Product"
+    Name="SL_Product"
     Comment=""
     EvaluatedDefinition="vacuum oven">vacuum oven</Variable>
   <Variable
@@ -46,15 +46,41 @@
     Comment=""
     EvaluatedDefinition="three">three</Variable>
   <Variable
-    Name="Product"
-    Comment=""
-    EvaluatedDefinition="BACTRON">BACTRON</Variable>
-  <Variable
-    Name="Product"
-    Comment=""
-    EvaluatedDefinition="BACTROX">BACTROX</Variable>
-  <Variable
-    Name="Product"
+    Name="SL_Product"
     Comment=""
     EvaluatedDefinition="oven">oven</Variable>
+  <Variable
+    Name="SL_Product"
+    Comment=""
+    EvaluatedDefinition="humidity cabinet">humidity cabinet</Variable>
+  <Variable
+    Name="SL_Product"
+    Comment=""
+    EvaluatedDefinition="bath">bath</Variable>
+  <Variable
+    Name="Amb_Temp_Range"
+    Comment="All non-Oven Units"
+    EvaluatedDefinition="15&#xD;&#xA;&#xD;&#xA;C and 30&#xD;&#xA;&#xD;&#xA;C (59&#xD;&#xA;&#xD;&#xA;F &#xD;&#xA;and 86&#xD;&#xA;&#xD;&#xA;F&#xD;&#xA;)">15
+
+C and 30
+
+C (59
+
+F 
+and 86
+
+F
+)</Variable>
+  <Variable
+    Name="Amb_Temp_Range"
+    Comment="Ovens"
+    EvaluatedDefinition="15&#xD;&#xA;&#xD;&#xA;C and 40&#xD;&#xA;C (59&#xD;&#xA;&#xD;&#xA;F and 104&#xD;&#xA;&#xD;&#xA;F&#xD;&#xA;)">15
+
+C and 40
+C (59
+
+F and 104
+
+F
+)</Variable>
 </CatapultVariableSet>

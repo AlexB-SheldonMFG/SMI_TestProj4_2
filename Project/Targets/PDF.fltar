@@ -12,7 +12,7 @@
     GenerateGlossaryProxy="true" />
   <Variables>
     <Variable
-      Name="Variables/Product">vacuum oven</Variable>
+      Name="SL_Variables/SL_Product">vacuum oven</Variable>
   </Variables>
   <PDF
     RequireOpenPassword="false"
