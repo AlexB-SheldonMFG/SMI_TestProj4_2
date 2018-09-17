@@ -34,5 +34,7 @@
         <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI2_100V_PP_Bright_Rece_Sides_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222/SMI2_100V_PP_Bright_Rece_Sides_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI2_220V_PP_Rec_Orient_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM222s/SLM222-EA/SMI2_220V_PP_Rec_Orient_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI6_RS_Rece_Sides_Man.png" ExternalPath="file:///J:/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM622s/SMI6_RS_Rece_Sides_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Installation/SMI7_Off_Inst_Clearances_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SMI7_Off_Inst_Clearances_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Installation/SMI7_LS_DRs_Inst_Clearances_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SLM722/SMI7_LS_DRs_Inst_Clearances_Man.png" />
     </Synchronize>
 </CatapultProject>
