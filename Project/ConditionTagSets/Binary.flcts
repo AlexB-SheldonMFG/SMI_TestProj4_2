@@ -11,9 +11,30 @@
   <ConditionTag
     BackgroundColor="#008000"
     Name="Oven"
-    Comment="" />
+    Comment=""
+    OriginalName="Oven" />
   <ConditionTag
     BackgroundColor="#ffa500"
     Name="NonOven"
+    Comment=""
+    OriginalName="NonOven" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Feet_Leveling"
+    Comment=""
+    OriginalName="Feet_Leveling" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Feet_None"
+    Comment=""
+    OriginalName="Feet_None" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Shelving_Yes"
+    Comment=""
+    OriginalName="Shelving_Yes" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Access_Port"
     Comment="" />
 </CatapultConditionTagSet>

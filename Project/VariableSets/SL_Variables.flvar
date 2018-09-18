@@ -83,4 +83,12 @@ F and 104
 
 F
 )</Variable>
+  <Variable
+    Name="Access_Port"
+    Comment=""
+    EvaluatedDefinition="Stopper">Stopper</Variable>
+  <Variable
+    Name="Access_Port"
+    Comment=""
+    EvaluatedDefinition="Cover">Cover</Variable>
 </CatapultVariableSet>

@@ -10,7 +10,7 @@
         <p>&#160;</p>
         <h5 class="Checkmark">Pre-Installation</h5>
         <ul class="Install_Checklist">
-            <li MadCap:conditions="ProductCat_Manuals.Oven_Vac">Verify that a vacuum supply source suitable for your application is available and can be connected to the oven, page .</li>
+            <li MadCap:conditions="ProductCat_Manuals.Oven_Vac">Verify a vacuum supply source suitable for your application is available and can be connected to the oven, page .</li>
             <li>Check that the required ambient conditions for the unit are met, page <MadCap:xref href="Ambient_Conditions.htm" class="ConceptPageNumber">on page&#160;1</MadCap:xref>.</li>
             <li>Check that the spacing clearance requirements are met, page <MadCap:xref href="Req_Clearances.htm">on page&#160;1</MadCap:xref>.<ul><li>Unit dimensions may be found on page </li></ul></li>
             <li MadCap:conditions="PwrFeed.PwrFd-Cord">Check that a suitable electrical outlet and power supply is present, page <MadCap:xref href="Req_PowerSource.htm">on page&#160;1</MadCap:xref>.</li>
@@ -21,7 +21,8 @@
         <h5 class="Checkmark">	Install the <MadCap:variable name="SL_Variables.SL_Product" />in a suitable workspace location</h5>
         <ul class="Install_Checklist">
             <li>Review the lifting and handling instructions, page .</li>
-            <li>Install the unit leveling feet, page .</li>
+            <li MadCap:conditions="Binary.Feet_Leveling">Install the unit leveling feet, page .</li>
+            <li MadCap:conditions="Binary.Feet_None">Verify the unit will be level, page .</li>
             <li>Install the unit in its workspace location, page .<ul MadCap:conditions="PwrFeed.PwrFd-HardWire"><li>	The oven may be connected to its power supply after this procedure.</li></ul></li>
         </ul>
         <p>&#160;</p>
@@ -32,8 +33,8 @@
             <li MadCap:conditions="ProductCat_Manuals.Oven">Clean the unit chamber and shelving (recommended), page .</li>
             <li MadCap:conditions="ProductCat_Manuals.Bead_Bath"> Clean and disinfect the unit and beads (recommended), page .</li>
             <li MadCap:conditions="ProductCat_Manuals.Water_Bath">Clean and disinfect the bath tank (recommended), page .</li>
-            <li class="Install_Checklist">	 Install the shelving, page .</li>
-            <li class="Install_Checklist">Verify the port cover is installed on the access port, page .</li>
+            <li class="Install_Checklist" MadCap:conditions="Binary.Shelving_Yes">	 Install the shelving, page .</li>
+            <li class="Install_Checklist" MadCap:conditions="Binary.Access_Port">Verify the port cover is installed on the access port, page .</li>
         </ul>
         <MadCap:pageBreak />
     </body>
