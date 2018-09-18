@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="Oven"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="Vac_Oven"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Incubator"
+    Comment=""
+    OriginalName="Incubator" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="Oven_w/TopVent"
+    Comment=""
+    OriginalName="Oven_w/TopVent" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="Exhaust_Blower"
+    Comment=""
+    OriginalName="Exhaust_Blower" />
+  <ConditionTag
+    BackgroundColor="#00bfff"
+    Name="Bead_Bath"
+    Comment=""
+    OriginalName="Bead_Bath" />
+  <ConditionTag
+    BackgroundColor="#00ff00"
+    Name="Water_Bath"
+    Comment=""
+    OriginalName="Water_Bath" />
+  <ConditionTag
+    BackgroundColor="#8b4513"
+    Name="Oven_Vac"
+    Comment="" />
+</CatapultConditionTagSet>
