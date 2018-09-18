@@ -89,6 +89,7 @@ div.NoPageBreak
 
 p
 {
+	hyphens: none;
 	font-size: 10.0pt;
 	margin-top: 0pt;
 	margin-bottom: 10pt;
