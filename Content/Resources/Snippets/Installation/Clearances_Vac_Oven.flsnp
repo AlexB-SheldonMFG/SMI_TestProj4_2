@@ -1,4 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="SL_ProductType.Vac_Oven">
-    <body>Vacuum, backfill, and access ports are located on the the oven. Leave sufficient clearance for operators to safely access these ports.</body>
+    <body>
+        <p><b>6 inches (152 mm)</b> of clearance is required on the sides.</p>
+        <p><b>12 inches (305 mm)</b> of headspace clearance is required between the top of the unit and any overhead partitions.</p>
+        <p>Do not place objects on top of the oven.</p>
+        <p>Vacuum, backfill, and access ports are located on the oven. Leave sufficient clearance for operators to safely access these ports.</p>
+    </body>
 </html>
