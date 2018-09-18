@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet>
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="110V_CordInlet"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="110V_Holder"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="220V_Inlet_Holder"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="220V_TwoHolders"
+    Comment="" />
+</CatapultConditionTagSet>

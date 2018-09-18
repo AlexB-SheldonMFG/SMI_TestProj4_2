@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="PwrFeed.PwrFd-Cord">
+    <body>
+        <ul>
+            <li class="Sheldon_bulleted1"><b>Supplied voltage must not vary more than 10% from the data plate rating.</b> Damage to the unit may result if supplied voltage varies more than 10%.</li>
+            <li class="Sheldon_bulleted1">The wall power source must be protective earth grounded.</li>
+            <li class="Sheldon_bulleted1">Use a separate circuit to prevent loss of the unit due to overloading or circuit failure.</li>
+            <li class="Sheldon_bulleted1" MadCap:conditions="Voltage.100 - 120V"><b>The recommended wall circuit breakers for these units are 15 amps.</b>
+            </li>
+            <li class="Sheldon_bulleted1" MadCap:conditions="Voltage.110 - 120V"><b>The recommended wall circuit breakers for these units are 15 amps.</b>
+            </li>
+            <li class="Sheldon_bulleted1" MadCap:conditions="Voltage.220 - 240V"><b>The recommended wall circuit breakers for these units are 16 amps.</b>
+            </li>
+            <li class="Sheldon_bulleted1">The wall power source must conform to all national and local electrical codes.</li>
+        </ul>
+    </body>
+</html>

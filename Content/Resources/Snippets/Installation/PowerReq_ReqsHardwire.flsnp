@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="PwrFeed.PwrFd-HardWire">
+    <body>
+        <ul>
+            <li class="Sheldon_bulleted1"><![CDATA[	]]><b>Supplied voltage must not vary more than 10% from the data plate rating.</b> Damage to the unit may result if the supplied voltage varies more than 10%.</li>
+            <li class="Sheldon_bulleted1">The wall power source must be protective earth grounded.</li>
+            <li class="Sheldon_bulleted1">Use a separate circuit to prevent loss of the unit due to overloading or circuit failure.</li>
+            <li class="Sheldon_bulleted1">	The wall power source must conform to all national and local electrical codes.</li>
+        </ul>
+    </body>
+</html>
