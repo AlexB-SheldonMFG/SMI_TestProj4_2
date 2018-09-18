@@ -8,4 +8,12 @@
     Comment=""
     Name="PrintOnly"
     BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Oven"
+    Comment="" />
+  <ConditionTag
+    BackgroundColor="#ffa500"
+    Name="NonOven"
+    Comment="" />
 </CatapultConditionTagSet>

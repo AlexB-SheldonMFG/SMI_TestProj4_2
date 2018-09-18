@@ -5,10 +5,6 @@
     Name="Oven"
     Comment="" />
   <ConditionTag
-    BackgroundColor="#0000ff"
-    Name="Vac_Oven"
-    Comment="" />
-  <ConditionTag
     BackgroundColor="#008000"
     Name="Incubator"
     Comment=""
@@ -36,5 +32,6 @@
   <ConditionTag
     BackgroundColor="#8b4513"
     Name="Oven_Vac"
-    Comment="" />
+    Comment=""
+    OriginalName="Oven_Vac" />
 </CatapultConditionTagSet>
