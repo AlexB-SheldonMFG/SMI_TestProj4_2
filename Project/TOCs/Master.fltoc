@@ -107,6 +107,11 @@
       Link="/Content/Topics/INSTALLATION/Req_Clearances.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       StartSection="false" />
     <TocEntry
+      Title="Power Source Requirements"
+      Link="/Content/Topics/INSTALLATION/Req_PowerSource.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
       Title="New Entry" />
   </TocEntry>
 </CatapultToc>

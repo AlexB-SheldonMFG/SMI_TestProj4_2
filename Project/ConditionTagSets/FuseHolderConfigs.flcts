@@ -16,4 +16,8 @@
     BackgroundColor="#ffa500"
     Name="220V_TwoHolders"
     Comment="" />
+  <ConditionTag
+    BackgroundColor="#8b008b"
+    Name="AccessOutlet"
+    Comment="" />
 </CatapultConditionTagSet>
