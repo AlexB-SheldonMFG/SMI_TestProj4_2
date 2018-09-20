@@ -94,6 +94,8 @@ p
 	margin-top: 0pt;
 	margin-bottom: 10pt;
 	margin-right: 27pt;
+	orphans: 2;
+	widows: 2;
 }
 
 p.centered
@@ -140,8 +142,6 @@ p.Note_Sheldon
 {
 	margin-top: 2pt;
 	margin-right: 27pt;
-	orphans: 2;
-	widows: 2;
 	border-top-style: solid;
 	border-top-width: 1pt;
 	border-top-color: black;
@@ -150,7 +150,7 @@ p.Note_Sheldon
 	border-bottom-color: black;
 	margin-bottom: 6pt;
 	text-align: justify;
-	font-family: 'Proxima Nova';
+	mc-auto-number-format: '{b}Note: {/b}';
 }
 
 p.Warning_Sheldon

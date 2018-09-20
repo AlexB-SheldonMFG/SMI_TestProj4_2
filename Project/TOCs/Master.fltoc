@@ -119,6 +119,9 @@
       Link="/Content/Topics/INSTALLATION/Lift_Handling.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
       StartSection="false" />
     <TocEntry
+      Title="Leveling"
+      Link="/Content/Topics/INSTALLATION/Leveling_Feet.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
       Title="New Entry" />
   </TocEntry>
 </CatapultToc>
