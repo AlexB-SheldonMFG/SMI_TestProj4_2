@@ -36,7 +36,7 @@
         <Mapping ProjectPath="Content/Resources/Images/Receiving/SMI6_RS_Rece_Sides_Man.png" ExternalPath="file:///J:/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM622s/SMI6_RS_Rece_Sides_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Installation/SMI7_Off_Inst_Clearances_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SMI7_Off_Inst_Clearances_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Installation/SMI7_LS_DRs_Inst_Clearances_Man.png" ExternalPath="file:///G:/Tech_Com_Dev/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SLM722/SMI7_LS_DRs_Inst_Clearances_Man.png" />
-        <Mapping ProjectPath="Content/Resources/Images/Installation/Lvl_Mini_Man.png" ExternalPath="file:///J:/Assets/Imagery/Graphics/Symbols/Icons/Lvl_Mini_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Installation/Lvl_Mini_wFeet.png" ExternalPath="file:///J:/Assets/Imagery/Graphics/Symbols/Icons/Lvl_Mini_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Installation/Foot_Man.png" ExternalPath="file:///J:/Assets/Imagery/Graphics/Symbols/Components/Foot_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Installation/Clockwise_Foot_Man.png" ExternalPath="file:///J:/Assets/Imagery/Graphics/Symbols/Components/Clockwise_Foot_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Installation/Counterclockwise_Foot_Man.png" ExternalPath="file:///J:/Assets/Imagery/Graphics/Symbols/Components/Counterclockwise_Foot_Man.png" />
