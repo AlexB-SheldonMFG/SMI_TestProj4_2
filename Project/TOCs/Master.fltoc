@@ -140,6 +140,11 @@
       Title="Installation Cleaning and Disinfecting"
       Link="/Content/Topics/INSTALLATION/Install_Cleaning_BeadBaths.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
+      Title="Install the Shelving"
+      Link="/Content/Topics/INSTALLATION/Install_Shelving.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="pageLayout"
+      StartSection="false" />
+    <TocEntry
       Title="New Entry" />
   </TocEntry>
 </CatapultToc>
