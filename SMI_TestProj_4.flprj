@@ -41,5 +41,6 @@
         <Mapping ProjectPath="Content/Resources/Images/Installation/Clockwise_Foot_Man.png" ExternalPath="file:///J:/Assets/Imagery/Graphics/Symbols/Components/Clockwise_Foot_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Installation/Counterclockwise_Foot_Man.png" ExternalPath="file:///J:/Assets/Imagery/Graphics/Symbols/Components/Counterclockwise_Foot_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Installation/SMI7_Off_Inst_Leveling_Man.png" ExternalPath="file:///J:/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/SLM722s/SMI7_Off_Inst_Leveling_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Installation/Glove_Exam_Man.png" ExternalPath="file:///J:/Assets/Imagery/Graphics/Symbols/Icons/Glove_Exam_Man.png" />
     </Synchronize>
 </CatapultProject>
