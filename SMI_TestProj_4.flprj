@@ -44,5 +44,6 @@
         <Mapping ProjectPath="Content/Resources/Images/Installation/Glove_Exam_Man.png" ExternalPath="file:///J:/Assets/Imagery/Graphics/Symbols/Icons/Glove_Exam_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Installation/Inst_Shelf1_Man.png" ExternalPath="file:///J:/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/Inst_Shelf1_Man.png" />
         <Mapping ProjectPath="Content/Resources/Images/Installation/Inst_Shelf2_Man.png" ExternalPath="file:///J:/Assets/Imagery/Units/SHEL_LAB/SMIs/SLMX22s/Inst_Shelf2_Man.png" />
+        <Mapping ProjectPath="Content/Resources/Images/Installation/6500506_Man.png" ExternalPath="file:///J:/Assets/Imagery/Parts_Accs/Port_Covers/6500506_Man.png" />
     </Synchronize>
 </CatapultProject>

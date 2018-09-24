@@ -9,8 +9,8 @@
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
-    GenerateIndexProxy="true"
-    GenerateGlossaryProxy="true" />
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
   <Destinations>
     <Destination
       Link="/Project/Destinations/Destination.fldes"

@@ -1,4 +1,4 @@
-﻿/*<meta />*/
+/*<meta />*/
 
 body
 {
@@ -490,8 +490,6 @@ td.Cent_RightBorder
 	padding-bottom: 2pt;
 }
 
-
-
 /* Image Formats */
 
 img
@@ -542,3 +540,12 @@ MadCap|xref
 {
 	mc-format: '{pageref}';
 }
+
+@media print
+{
+	p.Heading_Right_Continued_SL
+	{
+		text-align: lest;
+	}
+}
+
