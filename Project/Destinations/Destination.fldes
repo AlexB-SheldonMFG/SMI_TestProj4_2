@@ -8,4 +8,7 @@
   Directory="J:\Test_Env\Flare\2018\AlexB"
   Port=""
   ViewUrl="http://www.madcapsoftware.com/"
-  Type="file"></CatapultDestination>
+  Type="file"
+  UploadLogFile="false"
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>
