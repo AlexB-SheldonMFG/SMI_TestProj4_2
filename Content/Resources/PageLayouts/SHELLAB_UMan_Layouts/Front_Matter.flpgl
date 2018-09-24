@@ -28,7 +28,7 @@
             <Content>
                 <xhtml:html xmlns:xhtml="http://www.w3.org/1999/xhtml">
                     <xhtml:body>
-                        <xhtml:p>&#160;</xhtml:p>
+                        <xhtml:p xhtml:style="text-align: left;">&#160;</xhtml:p>
                     </xhtml:body>
                 </xhtml:html>
             </Content>
