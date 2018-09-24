@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[Binary.Access_Port or Binary.Feet_Leveling or Binary.NonOven or Binary.Shelving_Yes or FuseHolderConfigs.220V_Inlet_Holder or ProductCat_Manuals.Incubator or ProductCat_SL.Incubator or ProductCat_TUV.Incubator or PwrFeed.PwrFd-Cord or &quot;TUV.TUV - Tested&quot; or &quot;Voltage.220 - 240V&quot;] exclude[Binary.Feet_None or Binary.Oven or FuseHolderConfigs.110V_CordInlet or FuseHolderConfigs.110V_Holder or FuseHolderConfigs.220V_TwoHolders or FuseHolderConfigs.AccessOutlet or ProductCat_Manuals.Bead_Bath or ProductCat_Manuals.Exhaust_Blower or ProductCat_Manuals.Oven or ProductCat_Manuals.Oven_Vac or ProductCat_Manuals.Oven_w/TopVent or ProductCat_Manuals.Water_Bath or ProductCat_SL.Bead_Bath or ProductCat_SL.Exhaust_Blower or ProductCat_SL.Oven or ProductCat_SL.Oven_Vac or ProductCat_SL.Oven_w/TopVent or ProductCat_SL.Water_Bath or PwrFeed.PwrFd-HardWire or SupDocs.Profile_Guide or &quot;TUV.TUV - Not Tested&quot; or &quot;Voltage.100 - 120V&quot; or &quot;Voltage.110 - 120V&quot;] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/Destination.fldes"
+      Publish="true" />
+  </Destinations>
+</CatapultTarget>
