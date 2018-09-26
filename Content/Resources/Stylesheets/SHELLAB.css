@@ -1,4 +1,4 @@
-/*<meta />*/
+﻿/*<meta />*/
 
 body
 {
@@ -545,7 +545,6 @@ MadCap|xref
 {
 	p.Heading_Right_Continued_SL
 	{
-		text-align: lest;
+		text-align: left;
 	}
 }
-
