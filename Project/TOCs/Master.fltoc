@@ -155,8 +155,13 @@
   <TocEntry
     Title="GRAPHIC SYMBOLS">
     <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Topics/GRAPHIC SYMBOLS/Graphic Symbols.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      BreakType="chapter"
+      StartSection="false"
+      PageNumberReset="continue"
+      PageLayout="/Content/Resources/PageLayouts/SHELLAB_UMan_Layouts/Graphic Symbols.flpgl" />
+    <TocEntry
       Title="New Entry" />
   </TocEntry>
-  <TocEntry
-    Title="New Entry" />
 </CatapultToc>
