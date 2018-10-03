@@ -150,7 +150,7 @@
       PageLayout="/Content/Resources/PageLayouts/SHELLAB_UMan_Layouts/Installation.flpgl" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Topics/INTRODUCTION/AcessPort.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/Topics/INSTALLATION/AcessPort.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="GRAPHIC SYMBOLS">
